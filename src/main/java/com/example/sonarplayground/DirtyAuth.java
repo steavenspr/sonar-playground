@@ -29,7 +29,7 @@ public class DirtyAuth {
 
     // Bad entry point style
     public static void main(String[] args) {
-        SonarHorrorAuth a = new SonarHorrorAuth();
+        DirtyAuth a = new DirtyAuth();
 
         // Swallowing exceptions and ignoring return values
         try {
